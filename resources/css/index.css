@@ -1,5 +1,24 @@
-h1 {
+.head {
+  font-family: verdana;
   color: white;
   text-align: center;
+  font-size: 50px;
+  font-weight: normal;
 
+}
+.download {
+  color: aquamarine;
+  text-decoration: underline;
+  font-size: 16px;
+  color: white;
+}
+.sub{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 21px;
+  color: Gray;
+}
+#footer{
+  text-align: right;
+  color: gray;
 }
